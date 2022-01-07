@@ -1,0 +1,208 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+.container {
+    width: 1340px;
+    height: 857px;
+    background: url("../img/0 3.png") center /cover;
+position: absolute;
+    min-height: auto;
+    padding-top: 30px;
+}
+
+.logo {
+    padding: 0 50px;
+
+}
+
+.nu {
+    width: 46px;
+    height: 46px;
+}
+
+.nub {
+    float: right;
+    padding-top: 5px;
+}
+
+.kl a {
+    text-decoration: none;
+    color: #FFFFFF;
+    padding: 0 50px;
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight: 700;
+}
+
+.kl {
+    padding-top: 15px;
+
+}
+
+.tu a {
+    width: 30px;
+    height: 30%;
+    color: #FFFFFF;
+
+}
+
+.slaider3 {
+    padding-top: 140px;
+}
+
+.tu {
+    margin-bottom: 25px;
+    padding: 0 50px;
+
+}
+
+.web {
+    padding-top: 140px;
+}
+#hero{
+    width: 600px;
+    height:500px;
+    position: absolute;
+    left: 250px;
+
+
+}
+.lg{
+    display: flex;
+}
+.w3{
+    width: 530px;
+    height: 92px;
+    font-size: 90px;
+    padding-top: 90px;
+}
+.w4{
+    width: 50px;
+    height: 112px;
+    font-size: 84px;
+}
+.w5{
+    width: 94px;
+    height: 61px;
+    font-size: 49px;
+    color: #FB6F0C;
+    padding-top: 25px;
+
+}
+.im{
+
+
+
+
+}
+
+.slaider2 {
+    display: flex;
+    padding-top: 110px;
+
+}
+.e2{
+    width: 513px;
+    height: 725px;
+
+
+}
+.ss{
+    padding-top: 89px;
+    width: 171px;
+    height: 319px;
+
+}
+
+.ss1{
+position: absolute;
+    width: 139px;
+    height: 64px;
+    left: 83px;
+    top:458px;
+}
+
+
+.ff{
+    display: flex;
+}
+
+.r{
+    position: absolute;
+    width: 213px;
+    height: 70px;
+    left: 253px;
+    top: 430px;
+    font-size: 12px;
+    line-height: 14px;
+}
+.ld{
+    position: absolute;
+    width: 229px;
+    height: 14px;
+    left: 253px;
+    top: 570px;
+    font-size: 12px;
+    line-height: 14px;
+}
+
+.er{
+    position: absolute;
+    width: 66px;
+    height: 5px;
+    left: 155px;
+    top: 575px;
+}
+.trre{
+    position: absolute;
+    width: 139px;
+    height: 5px;
+    left: 85px;
+    top: 672px;
+
+}
+.gh{
+    position: absolute;
+    width: 157px;
+    height: 14px;
+    left: 255px;
+    top: 668px;
+    font-size: 12px;
+    line-height: 14px;
+}
+.uy{
+    position: absolute;
+    width: 65px;
+    height: 5px;
+    left: 155px;
+    top: 780px;
+
+}
+.yu{
+    position: absolute;
+    width: 225px;
+    height: 14px;
+    left: 253px;
+    top: 765px;
+    font-size: 12px;
+    line-height: 14px;
+}
+.tip{
+    position: absolute;
+    width: 57px;
+    height: 14px;
+    left: 253px;
+    top: 785px;
+    font-size: 12px;
+    line-height: 14px;
+}
+.tre{
+    position: absolute;
+    width: 150px;
+    height: 314px;
+    left: 10px;
+    top: 495px;
+}
